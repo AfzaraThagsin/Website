@@ -1,0 +1,79 @@
+.Aboutus
+{
+   /* background-color: antiquewhite; */
+   margin-left: 250px;
+   margin-right: 250px;
+   margin-top:95px ;
+}
+.Aboutus .About h1
+{
+    font-size: 50px;
+    text-align: center;
+   
+
+  
+}
+.Aboutus .About p
+{   
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #333;
+    text-align: left;
+    line-height: 1.5;
+    margin: 0 0 20px 0;
+    padding: 10px;
+  }
+  
+
+.Aboutus  .Affiliation h1{
+   
+    border-bottom:1px solid grey;
+}
+.Aboutus  .Affiliation  ul li{
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    color: #333;
+    text-align: left;
+    margin: 0 0 20px 0;
+}
+.Aboutus  .Affiliation  ul {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    color: #333;
+    padding-left: 70px;
+}
+.Aboutus .course h1
+{
+    border-bottom:1px solid grey;
+}
+.Aboutus .course p{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #333;
+    text-align: left;
+    line-height: 1.5;
+    margin: 0 0 20px 0;
+    padding: 10px;
+
+}
+.Aboutus .Highlights h1{
+    border-bottom:1px solid grey;
+}
+.Aboutus .Highlights ul li{
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    color: #333;
+   
+}
+.Aboutus .Highlights ul {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    color: #333;
+    padding-left: 70px;
+}

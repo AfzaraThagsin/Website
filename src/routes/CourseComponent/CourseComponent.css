@@ -1,0 +1,30 @@
+table {
+    border-collapse: collapse;
+    margin-left: 350px;
+    width: 700px; 
+    margin-bottom: 50px;
+  }
+  
+  th, td {
+    padding: 10px; 
+    border: 1px solid #ddd; 
+    text-align: center; 
+
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold; 
+  }
+  
+  .department { 
+    width: 60%; 
+  }
+  
+  .count { 
+    width: 40%; 
+    text-align: right; 
+  }
+  .course .dept h1{
+    text-align: center;
+  }
