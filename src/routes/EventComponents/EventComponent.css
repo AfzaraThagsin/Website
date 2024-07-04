@@ -1,3 +1,52 @@
 .events  h1{
     text-align: center;
+    
+}
+.events
+{
+   
+    padding-top:50px
+}
+.border
+{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid grey;
+    border-radius: 15px;
+    height: 600px;
+    width: 600px;
+    font-size: 2rem;
+    font-weight:bold ;
+    font-family: 'Times New Roman';
+    margin-left:400px ;
+    margin-bottom: 25px;
+   
+    
+    /* margin-left: 450px; */
+    
+}
+.border img{
+   
+    width: 450px;
+    align-items: center;
+    justify-content: center;
+    
+    padding: 10px;
+    height: 300px;
+    margin: 30px;
+    
+}
+.border p{
+     text-align: center;
+     font-size: 25px;
+     font-weight: 100;
+     
+}
+.border h2{
+   
+    text-align: center;
+    font-size: 40px;
 }

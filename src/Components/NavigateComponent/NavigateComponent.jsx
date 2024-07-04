@@ -9,10 +9,7 @@ import "./NavigateComponent.css"
 
 const NavigateComponent = () => {
   return (
-    <div>
-      
-        
-      
+    <div>   
     <Router>
       <header>
         <nav>
