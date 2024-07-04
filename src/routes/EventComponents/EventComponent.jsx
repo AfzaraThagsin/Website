@@ -57,11 +57,15 @@ const EventComponent = () => {
     <div className="events">
       <h1>Events</h1>
       </div>
-      <div className="border">
-        {event && <div>
-          <img src={event.Image} height="100px"/>
-           <h2>{event.Name}</h2>
-          <p>{event.Desc}</p>
+      <div >
+        {event && <div className="border">
+            <div className="img-container">
+              <img src={event.Image} height="100px" width="100px"/>
+            </div>
+           <div className='img-content'>
+              <h2>{event.Name}</h2>
+              <p>{event.Desc}</p>
+           </div>
           </div>}
       </div>
     
